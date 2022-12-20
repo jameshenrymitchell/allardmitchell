@@ -1,0 +1,169 @@
+@font-face {
+  font-family: 'SF';
+  src: url('../fonts/webfont.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+* {
+  background: 0 0;
+  border: 0;
+  box-sizing: border-box;
+  color: $color-black-060;
+  font: 400 16px/1.5 'SF', -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: -.03rem;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  -webkit-text-size-adjust: 100%;
+  transition: all .5s ease, font-size 0;
+
+  .invert & {
+    color: $color-white-060;
+  }
+
+  &::selection {
+    background: $color-black-100;
+    color: $color-white-100;
+  }
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+img {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h1,
+h2 {
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  color: $color-black-040;
+  letter-spacing: .03rem;
+  text-transform: uppercase;
+
+  .invert & {
+    color: $color-white-040;
+  }
+}
+
+h3,
+h4,
+p {
+  margin-bottom: 1.125rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: .5rem;
+
+  &::before {
+    background: hsl(125, 85%, 95%);
+    border-radius: 100%;
+    color: hsl(125, 50%, 50%);
+    content: ' →';
+    display: inline-block;
+    font-size: 1rem;
+    height: 1rem;
+    line-height: 1rem;
+    margin-right: 1rem;
+    padding: .25rem;
+    width: 1rem;
+  }
+}
+
+h4,
+p,
+li {
+  font-size: 1.125rem;
+}
+
+h1,
+h2,
+h4 {
+  color: $color-black-100;
+
+  .invert & {
+    color: $color-white-100;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+span,
+a {
+  color: inherit;
+  font-size: inherit;
+
+  .invert & {
+    color: inherit;
+  }
+}
+
+a {
+  text-decoration: none;
+  transition: all .5s ease;
+
+  &:hover {
+    color: $color-black-100;
+
+    .invert & {
+      color: $color-white-100;
+    }
+  }
+}
+
+body {
+  align-items: center;
+  background: $color-white-100;
+  display: flex;
+  flex-direction: column;
+}
+
+header,
+footer {
+  width: 100vw;
+}
+
+section {
+  width: 100%;
+}
+
+.text-group {
+  margin: 0 auto 6rem auto;
+  padding: 0 6rem;
+  max-width: 70rem;
+
+  @include tablet {
+    margin-bottom: 3rem;
+    padding: 0 3rem;
+  }
+}

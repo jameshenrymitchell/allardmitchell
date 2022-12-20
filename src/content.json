@@ -1,0 +1,244 @@
+[
+  {
+    "id": "bt",
+    "position": "Customer Experience Designer",
+    "residence": "BT Group",
+    "tenure": "2020–22",
+    "color": "linear-gradient(hsl(264, 80%, 39%), hsl(264, 80%, 29%))",
+    "desc": "Situated in the Customer Experience division of BT Group, I was responsible for the design of multi-channel experiences for BT and EE brands. We would take market propositions forward from mere ideas, to a detailed vision for their implementation as consumable products.<br><br>Working across an opaque landscape of different systems, partners, departments and product configurations, our principle aim was to ensure that the product experience delivered on our values of Personal, Simple and Brilliant.<br><br>Our methodology was democratised in a thorough 240-page playbook, imagining how Design Thinking and Service Design could manifest effectively in such a complex organisation.<br><br>It was our role as CX designers to advocate for customer centricity at key stages in the decision-making process. We would regularly challenge the cumbersome procedures that would be felt by customers, as well as ask more of our technology stack, in ways that would alleviate effort, reduce confusion and raise overall competitiveness.",
+    "achievements": [
+      "Led a team through research and design phases, targeting key personas",
+      "Defined a macro-level experience framework, spanning major product categories",
+      "Interpreted the framework at individual product level, developing service blueprints",
+      "Introduced experience principles to guide decisions across departmental siloes",
+      "Iterated and concentrated the CX playbook, in line with our evolving practice",
+      "Ran 50+ workshops with participation from as many as 25 departments",
+      "Created reusable artefacts and templates, sharing across the CX discipline"
+    ],
+    "project": {
+      "title": "Transforming <br>the experience",
+      "desc": "Our immediate team conceived the solution to manage a vast array of customer scenarios. This was referred to as the “Experience Library”, working from a vantage point of every possible product, persona and journey stage combination.<br><br>The result was an intimidating matrix of hypothetical experiences, which we distilled into manageable chunks of design scope. The work was distributed among agile squads, each with a multidisciplinary makeup. This included researchers, CX designers, process designers, UX architects, customer-facing colleagues and consultative representation from key functional departments.",
+      "img": [
+        {
+          "title": "Research",
+          "desc": "Using digital whiteboarding tools, we built a repository of pertinent reports, sourced from every corner of the organisation. This was our knowledge foundation, informing us of historic trends and helping us to build a picture of the wider brand experience.<br><br>Careful not to duplicate prior research efforts, we expanded our repository to include secondary research from management consultancies and authoritative voices in the telecommunications industry. This helped us see beyond the wall of our organisation, absorbing novel behaviours that were emerging in the competitive field, as well as socioeconomic influences that pertained to our customer demographics.<br><br>We then furthered the above with primary research efforts, coordinated across the squads to minimise overlap. For example, we looked at raw complaint data, customer service tickets, NPS survey responses, user interview outcomes, recorded phone calls and feedback from each sales channel. With a mosaic of perspectives, we extrapolated our customers’ pain points.<br><br>I took charge of our survey analysis, sifting through customer verbatim; pivoting the data on axes of product type, customer demographic and NPS question-specific scoring. From this, I gleaned where, when, and why we were or were not performing well in our customers’ eyes. I was able to produce qualitative and quantitative insight from this rich pool of attitudinal data, complementing the behavioural insight gathered from Sales, Marketing and Digital (UX).<br><br>We organised the data in separate whiteboards for customer type, using a “bullseye” format for each journey stage (Learn, Buy, Get, Use, Pay, Support), covering the end-to-end customer lifecycle. We feathered out from (collected) Data to (interpreted) Insight, to (evaluated) Trend and finally, to the (categorised) Pillar that communicated problem areas at an executive level."
+        },
+        {
+          "title": "Strategy",
+          "desc": "With functional objectives defined in our Group Strategy, we had some semblance of which direction was important for the business. We also had a ten-year outlook for how the organisation hoped to adapt to new market conditions. Both of these informed our project-specific strategy, but we had to sense-check our approach, to ensure it correlated with our independent research.<br><br>We were primarily tasked with driving an uplift in Net Promoter Scores, which were measured at Relationship (brand), Journey (lifecycle stage) and Interaction (task) levels. Because we would ultimately produce detailed requirements for transformation programmes, it made sense that we opt for a bottom-up attitude to making improvement. That meant honing in on the discrete tasks, or user stories, that were sticking points for customers with the aim of this having an upstream effect on Journey and Relationship outcomes.<br><br>NPS is a lag metric, so it takes time to “move the dial”. With that in mind, we were united in our need for a plethora of other metrics, giving a more immediate indication of whether our design updates were creating a positive impact. The result was a CX dashboard that covered “call to resolution”, “feature adoption rates” and “customer churn”, to name but a few of some 40+ measures."
+        },
+        {
+          "title": "Design",
+          "desc": "Prior customer research had identified several focal personas, which we used to orientate our design work. These ranged from customers who were migrating from another supplier to customers who were starting up businesses, without any legacy technology.<br><br>For each persona, we utilised our research repository to build empathy maps. We considered the broader context our customers found themselves in, as well as their consumer traits, which may anticipate in-product behaviours and priorities.<br><br>Working closely with our process designers, we detailed the current state of our experience landscape, so we could appreciate the complexity of our internally- and externally-focussed interactions. This exercise not only gave the project clarity of today’s journeys but uncovered further opportunities to reduce wasteful activity and streamline the flow of information.<br><br>We then moved towards architecting the future state in a series of participatory design workshops. Like our research, the body of our design work was spread amongst comparable teams, individually assigning a target experience of the aforementioned possibilities.<br><br>We completed journey maps to visually communicate the exchange of effort, data and value. In addition, we outlined proposed organisational changes with gap analyses. Once the experiences had gained relevant approval from stakeholders, we enriched our maps with detailed process architecture, operational enablers and acceptance criteria for all journey steps. These were our service blueprints, which could be operationalised in way of additional staff training, customer communications, product improvements, system changes or adapted internal procedures."
+        },
+        {
+          "title": "Engineering",
+          "desc": "We took stock of our proposed solutions, categorising them against a matrix of customer value versus delivery effort. This identified quick wins, long-term aspirations, desirable polish and time sinks. With such a view, we could strategically elect solutions for prototyping.<br><br>My background in user experience proved helpful to strengthen the approach towards prototyping storefront changes, new product experiences and unique retail ventures. I was especially clear that our value proposition must be evident for each solution, as we would need a definitive answer of whether our solutions accomplish their original problem statement(s).<br><br>We worked with our UX architects within Figma to refine digital prototypes, and likewise with user researchers to identify success measures. In some cases, we touched upon the newly-developed design system that was being integrated into our digital estate. We naturally influenced this stream of development, as some of our CX recommendations required an evolution of the system."
+        },
+        {
+          "title": "Management",
+          "desc": "After leading the research and design phases, and getting involved in some of the engineering conversation, my attention was drawn to the topic of ongoing maintenance. Our Library received recognition at the highest levels and was seen as a great sensemaking tool for navigating BT and EE, as much as an experiential blueprint for future market propositions. Within weeks of completing the first phase of development, the scope of the project was amplified to include niche selling environments to BT, i.e. wholesale distribution and managed corporate accounts.<br><br>With the reach of our project extending and our work in static formats, the elegant maintenance and cascade of version updates were left unanswered. I specifically called this out as a risk, as the volume of complexity managed by our artefacts was set to run riot. I took responsibility for this area and sought resolution through a mix of tooling improvements and communication frameworks. The ambition was to tightly connect emergent customer needs (Market Research, CX) with user stories (UX, Digital), such that there was an audit trail of market requirements carried through to the stories our engineers would develop their code by.<br><br>My vision saw research, metrics, development stories and wider departments integrated into a customer-centric platform that could collectivise work packages under the customer value that they hoped to deliver. I was commissioned by the Head of Design to work with senior process architects to first integrate the CX (maps and blueprints) landscape with that of Process (models and resource allocation). I then networked with service designers and UX architects from further afield in the organisation, to homogenise our practice into an all-encompassing Experience Design Philosophy. Finally, I went on to support the business case for new tooling that would truly deliver end-to-end visibility of market-oriented projects, with a view of live product performance too."
+        }
+      ]
+    }
+  },
+  {
+    "id": "livingdna",
+    "position": "Lead Product Designer",
+    "residence": "Living DNA",
+    "tenure": "2019",
+    "color": "linear-gradient(hsl(220, 100%, 60%), hsl(220, 100%, 45%))",
+    "desc": "Wanting to dedicate time to a consumer application, I contracted at a biotechnology startup specialising in DNA testing for ancestry. I was excited to learn more about this fast-growing niche, and the stories that the product would evoke in peoples’ lives.<br><br>Once again, this role was about enriching my experience in terms of sector breadth. It was especially rewarding to be co-located with a team of ambitious Product, Design and Engineering folk, with the bonus of meeting talented scientists, too.",
+    "achievements": [
+      "Helped evolve product strategy amidst market diversification",
+      "Engaged with a growth marketing agency to shape propositions",
+      "Facilitated Google design sprints to reimagine key user journeys",
+      "Tested new features with a focus group of dedicated users",
+      "Overhauled navigation, onboarding and core experience",
+      "Oversaw launch of in-app store and Wellbeing product",
+      "Developed a design system, inc. engineering tokens",
+      "Mentored team on Atomic Design and code quality"
+    ],
+    "project": {
+      "title": "Rethinking our <br>ancestral stories",
+      "desc": "When I joined the team, I inherited a backlog of roadmapped features that needed design attention. However, it soon became apparent that such features were so pivotal to the experience, that a wider conversation around the product story would help us strategise the way forward. I was keen for us not simply to bolt on new features, but rather ensure they were appropriately integrated into existing journeys, making for a cohesive whole.<br><br>At the same time, the Engineering team were contemplating a replatform of the product, affecting both the front- and back-end. With tectonic shifts of a) seismic features, and b) a new technology stack, it made sense that we synchronise these efforts in a major release.",
+      "img": [
+        {
+          "title": "Dashboard",
+          "desc": "The default screen inside the web application was previously the user’s ancestry results. However, we were designing for a much broader experience now, with the inclusion of a sister proposition. We also hoped to improve feature engagement, gamify onboarding and introduce a new concept of in-app purchases (upgrades). The outcome was a rich dashboard that disclosed important information, while driving customer lifetime value, among other engagement metrics."
+        },
+        {
+          "title": "Kit Activation",
+          "desc": "Before receiving their DNA results, users would have to register the testing kit we dispatched, which would simultaneously open an account in the application. This journey was laden with issues of user confusion, as well as temperamental, technical hiccups. The revised journey ironed out these creases while reducing average task completion time."
+        },
+        {
+          "title": "Profile Management",
+          "desc": "As many customers were purchasing multiple testing kits, we provided a DNA profile management area, which would support a “one to many” relationship between the application login account, and the various people whose DNA had been submitted for testing. This allowed the account holder to administrate their family and friends’ DNA profiles, as well as cycle through the test results (made easy from navigation)."
+        },
+        {
+          "title": "Ancestry Results",
+          "desc": "One of the most interesting sprints we ran was that of the core ancestry experience. The previous incarnation wasn’t fit for mobile consumption, and so there was a rewarding challenge in condensing the information into a small screen.<br><br>We also needed to lower the educational barrier to entry, as there was a plague of scientific jargon that caused users confusion. I spent hours with bioinformaticians understanding the mechanics of DNA testing, and with external genealogists to shape a more digestible narrative; employed across navigation, microcopy and DNA storytelling.<br><br>Finally, I worked very closely with Engineering to understand the full capabilities of our map technology, such that we could offer the map as a legitimate means of navigating ancestry results. One feature of the design, unlocked by meaningful collaboration, was a two-way intelligence between the results list view and the map itself. Panning and zooming within the map would re-render the list view with contextual detail, and navigation within the list view with similarly operate the map."
+        },
+        {
+          "title": "Wellbeing Results",
+          "desc": "Pursuing our North American competition, we launched a new market proposition: Wellbeing. This was made available as a standalone product and as a combined kit, alongside ancestry results. With DNA testing, it was possible to determine predispositions to health issues, dietary preferences and suitable lifestyle regimes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "loan",
+    "position": "Senior User Experience Designer",
+    "residence": "Loan.co.uk",
+    "tenure": "2019",
+    "color": "linear-gradient(hsl(201, 78%, 68%), hsl(201, 78%, 48%))",
+    "desc": "Curious about startup culture, and wanting to diversify my industry experience, I took up a contract with a financial technology provider that aimed to revolutionise loans and mortgages with their comparison website.<br><br>While at the startup, I helped the brand and products evolve in terms of visual language, tone and user experience. This was a great opportunity to develop an in-depth design system to support an increasingly accomplished range of digital products.",
+    "achievements": [
+      "Synthesised personas, empathy maps and task analysis in UX audit",
+      "Furthered user research with moderated testing and call listening",
+      "Worked under Lean UX methodology to manage feature updates",
+      "Revised information architecture and visual design around research",
+      "Collaborated with Product/Engineering to roll out a design system",
+      "Operationalised design through education, process and tooling",
+      "Engaged with Marketing to A/B test consumer brand direction"
+    ],
+    "project": {
+      "title": "Improving the <br>credit application",
+      "desc": "Behind the consumer-focussed comparison website was a decision engine that matched borrowing and lending requirements, integrated with over 1,000 lenders. Sharing this digital brain was an internal case management tool named Signature. It allowed financial consultants and mortgage representatives to survey the market for products, complete underwriting procedures, track case progress, manage, and directly communicate with consumers via multimodal means (email, call, SMS).",
+      "img": [
+        {
+          "title": "Splash Page",
+          "desc": "When starting a new session in the desktop application, agents are presented with a welcoming screen that summarises its six modules."
+        },
+        {
+          "title": "Dashboard",
+          "desc": "This was an entirely new module, offering an “at a glance” view of key metrics, complete with filtering, and dynamic widgets for user types."
+        },
+        {
+          "title": "Messaging Suite",
+          "desc": "Agents would often be managing tens of cases per day, and so the uplifted messaging experience allowed for quicker processing of caseload as well as integrating new means of contact within the application."
+        },
+        {
+          "title": "Design System",
+          "desc": "As the team migrated design tools, we audited the legacy system and found opportunities to rationalise the language, before re-establishing a system in our new environment. The result combines a new visual tone as well as feature enhancements that were beyond the previous system."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tbtmarketing",
+    "position": "Senior Digital Designer",
+    "residence": "TBT Marketing",
+    "tenure": "2017–19",
+    "color": "linear-gradient(-135deg, hsl(330, 72%, 50%), hsl(18, 88%, 54%))",
+    "desc": "Having cut my teeth in a client-side role, where I worked with digital partners, I became increasingly interested in the agency environment. I joined a marketing agency with an impressive client list, predominantly working in the IT sector as a demand generation catalyst. In this role, I built upon my experience in multilingual marketing, as well as seeing projects through from conception to final, engineered delivery.",
+    "achievements": [
+      "Implemented a rebrand for a talent management consultancy",
+      "Architected and engineered a campaign management platform",
+      "Provided creative direction for a number of integrated campaigns",
+      "Designed subbrands for blue-chip clients, working within guidelines",
+      "Developed landing pages, microsites and full-scale company websites",
+      "Built bespoke content management systems and internal design tools",
+      "Presented to C-suite stakeholders, driving new agency opportunities",
+      "Mentored junior team and shared studio management responsibility"
+    ],
+    "project": {
+      "title": "Building a new <br>tech community",
+      "desc": "IBM had a 20-year relationship with the agency, much of it concerned with amplifying demand in the EMEA market through campaigns, events, and distributor relations. With a host of tactical initiatives deployed, there was a persuasive argument to centralise activity under a strategic, digital platform.<br><br>This was the seed of IBM Storage Zone; a marketplace for IBM’s accredited Business Partners to convene. Another channel to target key partners with new product lines, worldwide events and useful content.",
+      "img": [
+        {
+          "title": "Brand Development",
+          "desc": "We proposed several naming options for the platform, after which I put forward three contrasting concepts for the visual identity. The chosen direction, seen here, incorporated IBM’s typeface (Plex Sans) and worked within the confines of their generous colour palette. The mark aimed to communicate themes of globalism, progression and convergence."
+        },
+        {
+          "title": "Platform Architecture",
+          "desc": "We built a low-resolution picture of the platform’s capabilities in a series of early client calls, before scoping its various modules with detailed user stories. We workshopped through the information architecture needed to support a relatively comprehensive build. This included mapping data feeds, managed content and user-generated outcomes."
+        },
+        {
+          "title": "Platform Design",
+          "desc": "I took requirements forward to a low-fidelity prototype of the experience, which we tested with a panel of IBM Business Partners for feedback. A few iterations later, I moved on to visual design, blending the opinion of Storage Zone’s identity with IBM’s Carbon design system."
+        },
+        {
+          "title": "Integrated Campaign",
+          "desc": "To support the platform’s launch, I worked on a campaign across email, display, social and direct mail marketing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hillbrush",
+    "position": "Digital Designer",
+    "residence": "Hillbrush",
+    "tenure": "2014–17",
+    "color": "linear-gradient(135deg, hsl(190, 100%, 36%), hsl(212, 62%, 29%))",
+    "desc": "My professional design career started as a Digital Designer for a locally headquartered, yet multinational manufacturer distributing to over 100 countries. Within three months, I was promoted to Brand Manager, absorbing strategic responsibilities in the Marketing department, while continuing to set creative direction for the brand’s touchpoints.",
+    "achievements": [
+      "Refined key marketing literature, from visual design to copywriting",
+      "Introduced an offline design system, shortening catalogues by 60%",
+      "Designed a bespoke exhibition stand, inc. modular product displays",
+      "Localised e-Commerce platforms and iteratively improved features",
+      "Instigated cost-saving efforts (c. £100k p/a) using new technology",
+      "Pushed creative direction as far as influencing physical products",
+      "Rearchitected brand portfolio and oversaw end-to-end rebrand",
+      "Line managed and mentored a Junior Graphic Designer"
+    ],
+    "project": {
+      "title": "Modernising the <br>face of cleaning",
+      "desc": "As the company underwent a tsunami of change, including digital transformation and relocation to a purpose-built manufacturing hub, the need to modernise the company’s masterbrand grew. In addition, there was market feedback highlighting issues in brand performance, especially in overseas markets of North America, the Middle East and Asia. Finally, there was a programme of cultural recalibration internally, that sought an inward-out alignment of values, which could be solidified by a rebrand.",
+      "img": [
+        {
+          "title": "Masterbrand Development",
+          "desc": "The previous company name “The Hill Brush Company” was distilled into the revised alias of “Hillbrush”. This was manifested using custom lettering, following a phase of creative exploration with different lettering approaches, hoping to embody the tone of our modernising business. During development, several key customers were consulted on the proposed changes for their valuable opinion."
+        },
+        {
+          "title": "Product Brands",
+          "desc": "We reaffirmed the relationship between the parental masterbrand and its subsidiary product brands, moving away from “freestanding” brand architecture to a “monolithic” approach. In applicable product identities, we incorporated the curious Salmon trademark, which had been a legacy element of the portfolio, since 1922. It too was visually simplified to cohere with the direction of the masterbrand identity."
+        },
+        {
+          "title": "Brand Portal",
+          "desc": "To communicate the story behind our brand evolution, and to set out the parameters of our new identity, I developed a dedicated microsite. Everything from typographic etiquette to tone of voice was covered, as well as colour palettes, situational logo usage and the provision of downloadable assets."
+        },
+        {
+          "title": "Brand Implementation",
+          "desc": "Over a series of months, we rolled out the new language across all of our digital estate, marketing collateral, business consumables, livery, exhibition setups and our new factory, where I was involved in interior design and wayfinding."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gillingham",
+    "position": "Student",
+    "residence": "Gillingham School",
+    "tenure": "2012–14",
+    "color": "linear-gradient(hsl(215, 41%, 28%), hsl(215, 41%, 23%))",
+    "desc": "For my Advanced Level study, I took three courses that I felt had a strong interconnection within the design industry. Graphic Communication would allow me to explore my creative sensibility, Business Management would ground my understanding of the commercial world, and Information Technology would give me the principle knowledge of how design and engineering might interface. These domains proved to be the right choice to take my already blossoming design career to a professional level.",
+    "achievements": [
+      "Full marks in two design modules; one critiquing Modernism",
+      "Full marks in a module analysing the rising Chinese economy",
+      "Full marks in a Database Design module, building a POS system",
+      "Engaged with staff on a series of extracurricular design projects"
+    ],
+    "project": {
+      "title": "Constructing a <br>visual language",
+      "desc": "While investigating the foundations of contemporary art and design, I focussed my research on the Modernist period in particular. Amongst influential graphic designers and typographers, I studied the work of artists such as Piet Mondrian and Theo van Doesburg.<br><br>To these artists, I dedicated an experiment in type design, looking at how the austere language of horizontal and vertical lines might be employed in a Latin, sans-serif typeface. The namesake of the resulting typeface follows that of the niche movement, co-founded by Mondrian and van Doesburg.",
+      "img": [
+        {
+          "title": "Preliminary Sketches",
+          "desc": "Exploration started on paper, refactoring traditionally curved letterforms into a system of straight lines. Once the typeface’s DNA was cemented, I then approached a logotype and scamped specimen layouts."
+        },
+        {
+          "title": "Digitising Type",
+          "desc": "Having completed the full character set on paper, I began the digitisation process in Adobe Illustrator, then imported the vectorised glyphs into FontLab Studio. Using the latter, I could manufacture type files and calibrate the kerning for each glyph, as well as for combinatory pairs."
+        },
+        {
+          "title": "Specimen Booklet",
+          "desc": "With the typeface digitised in one weight, I then used mathematical interpolation and extrapolation to efficiently produce a total of five weights, ranging from Thin to Black. The full variation of typographic styles was evidenced in a foldout specimen booklet."
+        },
+        {
+          "title": "Specimen Microsite",
+          "desc": "To showcase and distribute the typeface online, I developed a responsive microsite with the ability to trial custom text in various weights, sizes and contexts. I wrote the functionality in pure Javascript."
+        }
+      ]
+    }
+  }
+]
